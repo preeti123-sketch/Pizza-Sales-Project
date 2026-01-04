@@ -5,8 +5,6 @@ This project analyzes pizza sales data to identify sales trends, popular items, 
 
 ## 📂 Tools & Setup
 - SQL
-- Excel
-- Power BI
 
 ## 📄 Dataset
 - Orders
